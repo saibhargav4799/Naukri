@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                echo 'Hello World building'
+                echo 'Hello World buildingfrom test branch'
             }
         }
         stage('satge') {
